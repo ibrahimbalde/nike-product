@@ -1,0 +1,22 @@
+body{
+background-image: url("unephoto.jpg");
+display: flex;
+justify-content: center;
+height: 100vh;
+align-items: center;
+
+}
+.card{
+    background-color: #101825;
+    width: 680px;
+    height: 500px;
+    margin: auto;
+    text-align: center;
+
+}
+.shoe{
+    width: 80%;
+}
+.logo{
+    display: flex;
+}
